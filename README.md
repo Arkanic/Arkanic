@@ -1,4 +1,4 @@
-### <img src="./src/arkanic.png" width="32" height="32"/> Arkanic
+### <img src="./src/arkanic.png" width="16" height="16"/> Arkanic
 
 <!--
 **Arkanic/Arkanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
