@@ -1,5 +1,3 @@
 omw to do the do thing do the do there the do
 
-<a href="#">
-   <p>Page views: <img align="center" src="https://pageviews.tal0s.repl.co/" alt="Page views"/></p>
-</a>
+<p>Page views: <a href="#"><img align="center" src="https://pageviews.tal0s.repl.co/" alt="Page views"/></a></p>
